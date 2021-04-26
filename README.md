@@ -1,4 +1,4 @@
-#  :globe_with_meridians Elections-project
+# :globe_with_meridians: Elections-project
 
 In an anonymous country we complained about the forgery of the election results, so it was decided to build the election management system:
 
