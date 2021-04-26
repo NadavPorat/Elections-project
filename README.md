@@ -7,7 +7,7 @@ In an anonymous country we complained about the forgery of the election results,
 - Each party running in the elections has a single candidate for head of state, and a separate list of representatives for each County in the country. 
 
 - Every citizen votes in the district where he lives for one of the parties running in the election.
--
+
 - The identity of the representatives in each district is determined by the list of each party in the district, according to the ratio of votes received.
 
 - At the end of the election, each district is associated with the party that received the most votes in the district. head of state
