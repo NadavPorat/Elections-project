@@ -1,6 +1,6 @@
 # :globe_with_meridians: Elections-project
 
-In an anonymous country we complained about the forgery of the election results, so it was decided to build the election management system:
+In an anonymous country we got complain about forgery of the election results, so it was decided to build the election management system:
 
 - The state is divided into districts, where each district is associated with a number of representatives according to it's size (for example:NY County has 29 delegates).
 
